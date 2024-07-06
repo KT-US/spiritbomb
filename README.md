@@ -52,9 +52,11 @@ Step 5: cd Download/spiritbomb-main
 Go to the Downlaod dir and then you will find spirtbomb dir then change dir to spiritbomb. Then you will find spiritbomb and oui file there.
 
 step 5.1: unzip spiritbomb-main.zap
+
 step 5.2: ls
 
 step 5.3:cd Download/spiritbomb-main
+
 step 5.4: chmod +x spiritbomb-main
 
 
